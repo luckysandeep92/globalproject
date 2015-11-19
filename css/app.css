@@ -1,0 +1,26 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 21 Sep, 2015, 6:25:45 PM
+    Author     : Shivam
+*/
+
+.phones{
+    list-style: none;
+}
+.phones li{
+    clear:both;
+    height:115px;
+    padding-top: 15px;
+}
+.thumb{
+    float: left;
+    margin: -0.5em 1em 1.5em 0;
+    padding-bottom: 1em;
+    height: 100px;
+    width: 100px;
+}
+
